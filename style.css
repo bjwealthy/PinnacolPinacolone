@@ -1,0 +1,25 @@
+.description{
+	color:red;
+	font-style:bold;
+	font-weight: bold;
+	margin-left: 10px;
+	margin: 
+
+}
+
+
+*{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.image{
+	width: 400px;
+}
+
+.title{
+	background: #33bebe;
+}
+
